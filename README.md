@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anilkumar512
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding and Logic building
 - 🌱 I’m currently learning Python Full Stack
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me anilkumar9120255@gmail.com
+- 📫 How to reach me 9392564922
 - 😄 Pronouns: Anil
 - ⚡ Fun fact: Convert Error into a Feature
 
